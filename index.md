@@ -19,4 +19,4 @@ cd $1
 }
 
 lo que más he estudiado estos días en vez de el ciclo:
-[enlace an linea] (https://www.adiba.org/es/recursos-nutricion/124-contando-raciones)
+[enlace an linea](https://www.adiba.org/es/recursos-nutricion/124-contando-raciones)
